@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Druitti/Druitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently studying Software Engineering on PUC MG  
+- 👯 I’m looking to collaborate on software development internship
+- 🤔 I’m looking for help with Minecraft Mod Development
+- 💬 Ask me about Minecraft Mod
+- 📫 How to reach me: gabriel.afa@outlook.com || 37984046121
+
+<div>
+  <a href="https://github.com/Druitt">
+</div>
+<div >
+  <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"></a>
+</div>
