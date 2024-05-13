@@ -17,10 +17,10 @@
 
 <div>
   <a href="https://github.com/druitti/github-readme-stats">
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=druitti&show_icons=true&theme=tokyonight"/>
+    <img height="150px"  align="center" src="https://github-readme-stats.vercel.app/api?username=druitti&show_icons=true&theme=tokyonight"/>
  </a>
    <a href="https://github.com/druitti/convoychat">
-    <img height="200em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druitti&layout=compact&theme=tokyonight"/>
+    <img  height="150px"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=druitti&layout=compact&theme=tokyonight"/>
    </a>
 </div>
 <div style="display: inline_block"><br>
