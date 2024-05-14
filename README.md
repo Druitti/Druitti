@@ -30,7 +30,7 @@
   <img align="center" alt="Gabriel-Js" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gabriel-Spring" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Gabriel-Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Gabriel-Java" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+
   
  
 </div>
